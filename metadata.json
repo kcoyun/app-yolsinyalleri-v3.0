@@ -1,0 +1,6 @@
+{
+  "name": "YolSinyali",
+  "description": "Leaflet.js openStreetMap tabanlı, gerçek zamanlı trafik ihbar ve konum paylaşım uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
